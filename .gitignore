@@ -1,7 +1,3 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
 # Created by https://www.toptal.com/developers/gitignore/api/java,react,intellij,eclipse,maven,gradle,sass,reactnative,vue,vuejs,windows,linux,macos,emacs,visualstudiocode,webstorm
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,react,intellij,eclipse,maven,gradle,sass,reactnative,vue,vuejs,windows,linux,macos,emacs,visualstudiocode,webstorm
 
