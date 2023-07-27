@@ -20,6 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "proxy": "http://localhost:8090",
+  "homepage": "https://dkel4578.github.io/230724_practice/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
