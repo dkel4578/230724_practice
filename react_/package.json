@@ -19,7 +19,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "proxy": "http://localhost:8090",
+  "proxy": "http://ec2-13-209-22-40.ap-northeast-2.compute.amazonaws.com:8080/",
   "homepage": "https://dkel4578.github.io/230724_practice/",
   "scripts": {
     "start": "react-scripts start",
